@@ -1,4 +1,7 @@
 import Head from "next/head";
+import Link from "next/link";
+
+
 export default function Home() {
   return (
     <>
@@ -30,7 +33,7 @@ export default function Home() {
             <ul class="list-none mb-0">
               <li class="mb-4">
                 <p class="text-lg text-gray-600">
-                  <strong class="font-bold">Calculator:</strong> Our calculator
+                  <Link href={"/mathCalculator"}><strong class="font-bold">Calculator:</strong></Link> Our calculator
                   is a powerful tool that can help you with your daily
                   calculations, from simple arithmetic to complex mathematical
                   operations.
