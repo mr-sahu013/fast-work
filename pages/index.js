@@ -10,6 +10,8 @@ export default function Home() {
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/fast-work.png" />
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5619050529742611"
+     crossorigin="anonymous"></script>
       </Head>
       <main class="h-screen bg-gray-100 px-4">
         <div class="py-10 min-h-screen">
