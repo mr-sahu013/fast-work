@@ -16,7 +16,7 @@ export default function Home() {
           <section class="intro">
             <h1 class="text-3xl font-bold mb-4">Welcome to Fast-Work</h1>
             <p class="text-lg text-gray-600">
-              Fast-Work is a website designed to make your life easier by
+              Fast-Work is a best website designed for to make your life easier by
               providing you with a set of useful calculators and tools. Whether
               you're a student or a shop owner, our website has got you covered.
             </p>
