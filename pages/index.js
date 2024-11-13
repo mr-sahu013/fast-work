@@ -29,7 +29,7 @@ export default function Home() {
           </section>
           <section class="why-helpful">
             <h2 class="text-2xl font-bold mb-4">
-              Why is Fast-Work helpful for you?
+             Know the why fast-work website is helpful for you?
             </h2>
             <ul class="list-none mb-0">
               <li class="mb-4">
